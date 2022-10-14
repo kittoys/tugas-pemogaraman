@@ -1,0 +1,9 @@
+*,html {margin: 0;}
+.box {}
+.box-navbar {background-color: rgb(12, 94, 106); width: 100%; height: 100px; height: 100vhx;}
+.ul-navbar {width: 100%; height: 100px; display: flex; justify-content: center; align-items: center;}
+.li-navbar {border: 1px solid rgb(10, 35, 110) ; background-color: darkred; list-style: none; padding: 20px; color: white; margin: 5px;}
+.ninja-01 {background-color:  darkcyan; display: flex; justify-content: center; align-items: center;}
+.img-01 {width: 20%; height: 20%; }
+.box-footer{background-color: rgb(81, 12, 12); display: flex; justify-content: center;align-items: center;}
+.h1-footer{color: white; display: flex; justify-content: center;align-items: center; font-size: 40px;} 
